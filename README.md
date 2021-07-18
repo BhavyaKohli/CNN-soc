@@ -1,13 +1,14 @@
-##Basic Timeline: <br/>
+## Basic Timeline: <br/>
 Learning phase : 24/03/2021 — 24/05/2021<br/>
 Application phase : 25/05/2021 — 14/07/2021<br/>
 Results compilation and report submission : 14/07/2021 — 17/07/2021<br/>
 
-##24/03 — 20/04 <br/>
+24/03 — 20/04 <br/>
 During the learning phase, we were first referred to the Machine Learning course on Coursera (https://www.coursera.org/learn/machine-learning) taught by Andrew N.G. for a basic understanding of machine learning, loss functions, logistic regression, etc.
 As the assignments in the course were on MATLAB, our mentors made 4 python assignments covering the first 4 weeks of the course. The assignments covered the aforementioned basic concepts of ML and also reinforced our python basics. Additionally, the first assignment had a tutorial on setting up git and about github as a good way to archive the work we do in an online repository.
 
-##20/04 — 13/05 Midsems
+20/04 — 13/05 
+Midsems
 
 13/05 — 24/05<br/>
 After our (mentors' and mentees') midsems were finished we were referred to the Convolutional Neural Networks course on Coursera (https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning), also taught by Andrew N.G., which is course 4 of 5 in the Deep Learning specialization. We were instructed to cover material upto week 2 in this course within 10 days before starting on the actual project.
