@@ -3,21 +3,21 @@ Learning phase : 24/03/2021 — 24/05/2021<br/>
 Application phase : 25/05/2021 — 14/07/2021<br/>
 Results compilation and report submission : 14/07/2021 — 17/07/2021<br/>
 
-24/03 — 20/04 <br/>
+### 24/03 — 20/04 <br/>
 During the learning phase, we were first referred to the Machine Learning course on Coursera (https://www.coursera.org/learn/machine-learning) taught by Andrew N.G. for a basic understanding of machine learning, loss functions, logistic regression, etc.
 As the assignments in the course were on MATLAB, our mentors made 4 python assignments covering the first 4 weeks of the course. The assignments covered the aforementioned basic concepts of ML and also reinforced our python basics. Additionally, the first assignment had a tutorial on setting up git and about github as a good way to archive the work we do in an online repository.
 
-20/04 — 13/05 
+### 20/04 — 13/05 
 Midsems
 
-13/05 — 24/05<br/>
+### 13/05 — 24/05<br/>
 After our (mentors' and mentees') midsems were finished we were referred to the Convolutional Neural Networks course on Coursera (https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning), also taught by Andrew N.G., which is course 4 of 5 in the Deep Learning specialization. We were instructed to cover material upto week 2 in this course within 10 days before starting on the actual project.
 
-24/05 — 25/05<br/>
+### 24/05 — 25/05<br/>
 Our mentors had introduced us to the three projects early on, but now they asked us for our preferences to allot us to our desired project. Four of us including me were alloted 
 to the COVID-19 Detection project under mentors Adarsh Raj and Gudipaty Aniket.
 
-25/05 — 14/07<br/>
+### 25/05 — 14/07<br/>
 The four mentees in the project further split into two teams, and I was paired with Akshat Kumar. Then we decided to independently work on our models and then compare results.
 
 Using the research paper shared with us as a reference (https://journals.physiology.org/doi/pdf/10.1152/physiolgenomics.00084.2020), I first began working on a binary classifier, which would classify a given image between COVID-19 positive and Healthy. The dataset was obtained from kaggle (https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) and contained 21,165 chest X-ray images spanning 4 classes: Normal, COVID-19, Lung Opacity and Viral Pneumonia.
@@ -36,7 +36,7 @@ Comparing with the research paper, the attained accuracy in the paper was 98.92%
 
 Another method which I discovered recently, around last week was using dataframes and the ImageDataGenerator and flow_from_dataframe functions instead of the .npy files. This method was better than the previous in the fact that the images could be passed through some augmentations which would improve the general performance of the model, and using this method RAM usage was never a problem even after using the COMPLETE dataset (3616 COVID-19 positive and 4500 Healthy (undersampled)) for the binary classification task. Since I discovered this method late I couldnt do as much work in this but with it I could reach a maximum accuracy of 95% after running model evaluation with just a few (50) epochs. I feel that this method is better than the first, and I think that with proper augmentations, batch size selection, and other parameters its possible to achieve even higher accuracies given proper hardware to run training runs at higher speeds.
 
-14/07 — 17/07<br/>
+### 14/07 — 17/07<br/>
 We compared results and made a common repository for our SoC team with all the three projects and their respective work in that repository.
 
 I have learnt a lot from this project and I am grateful to my mentors who accepted my application. AFter working on this project I have become greatly interested in deep learning and neural networks and I plan to work on similar in the future, or even mentor a project of my own in later years.
