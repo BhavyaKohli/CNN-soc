@@ -16,7 +16,7 @@ After our (mentors' and mentees') midsems were finished we were referred to the 
 Our mentors had introduced us to the three projects early on, but now they asked us for our preferences to allot us to our desired project. Four of us including me were alloted 
 to the COVID-19 Detection project under mentors Adarsh Raj and Gudipaty Aniket.
 
-25/05 — 07/07<br/>
+25/05 — 14/07<br/>
 The four mentees in the project further split into two teams, and I was paired with Akshat Kumar. Then we decided to independently work on our models and then compare results.
 
 Using the research paper shared with us as a reference (https://journals.physiology.org/doi/pdf/10.1152/physiolgenomics.00084.2020), I first began working on a binary classifier, which would classify a given image between COVID-19 positive and Healthy. The dataset was obtained from kaggle (https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) and contained 21,165 chest X-ray images spanning 4 classes: Normal, COVID-19, Lung Opacity and Viral Pneumonia.
