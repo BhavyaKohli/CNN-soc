@@ -1,0 +1,1 @@
+The notebooks "Covid project Binary" and "Covid project Multiclass" are the final notebooks submitted to the project repository. The models "binary.h5" and "multi.h5" are the models from these respective notebooks, which have also been submitted to the project repository. 
