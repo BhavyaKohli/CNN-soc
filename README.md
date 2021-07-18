@@ -1,4 +1,5 @@
-## Basic Timeline: <br/>
+## Project Report <br/>
+### Basic Timeline: <br/>
 Learning phase : 24/03/2021 — 24/05/2021<br/>
 Application phase : 25/05/2021 — 14/07/2021<br/>
 Results compilation and report submission : 14/07/2021 — 17/07/2021<br/>
