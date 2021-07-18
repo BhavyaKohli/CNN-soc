@@ -1,0 +1,2 @@
+The notebooks "Covid project Binary" and "Covid project Multiclass" are the final notebooks submitted to the project repository.<br/>
+The models "binary.h5.txt" contains the drive link for the model as it exceeded github size limits. "binary.h5 and "multi.h5" are the models from their respective notebooks, which have also been submitted to the project repository. 
